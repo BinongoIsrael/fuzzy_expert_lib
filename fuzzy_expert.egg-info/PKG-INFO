@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fuzzy_expert
+Version: 0.1.0
+Summary: Simple fuzzy logic (Mamdani) library with triangular and trapezoidal membership functions
+Author: Israel
+Author-email: israelmelorenbinongo@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
