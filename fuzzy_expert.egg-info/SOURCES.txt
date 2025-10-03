@@ -10,4 +10,9 @@ fuzzy_expert.egg-info/PKG-INFO
 fuzzy_expert.egg-info/SOURCES.txt
 fuzzy_expert.egg-info/dependency_links.txt
 fuzzy_expert.egg-info/top_level.txt
+tests/test_defuzzify.py
+tests/test_fuzzify.py
+tests/test_inference.py
+tests/test_membership.py
+tests/test_rules.py
 tests/test_system.py
